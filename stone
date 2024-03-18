@@ -19,7 +19,6 @@ for i in range(100):
 
 #print(grid)
 
-grid[20][20] = 1
     
 #grid[20][20]=1#test case comment out later
 running = True
